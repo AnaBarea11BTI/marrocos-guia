@@ -6,7 +6,6 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +13,7 @@ body {
     background-color: #7e2929;
 }
 
-.pais-marrocos {
+.home, .home2 {
     width: 80%;
     max-width: 900px;
     padding: 20px;
